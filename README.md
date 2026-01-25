@@ -1,4 +1,4 @@
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=GOTHYS&data=followers,commits&theme=darkmode)](https://github.com/GOTHY-SOFTWARE)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=GOTHY-SOFTWARES&data=followers,commits&theme=darkmode)](https://github.com/GOTHY-SOFTWARE)
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=javascript,typescript,java,html,css,json,yaml&theme=darkmode&includeNames=true)](https://github.com/GOTHY-SOFTWARE)
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?frameworks=react,next,expressjs&theme=darkmode&includeNames=true)](https://github.com/GOTHY-SOFTWARE)
